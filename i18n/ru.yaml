@@ -1,0 +1,6 @@
+nvdaVoiceLink:
+  other: Скачать голос для NVDA
+sapiVoiceLink:
+  other: Скачать голос для других Windows-программ
+versionX:
+  версия {{.version}}

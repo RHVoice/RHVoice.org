@@ -1,0 +1,6 @@
+nvdaVoiceLink:
+  other: Download the voice for NVDA
+sapiVoiceLink:
+  other: Download the voice for other Windows programs
+versionX:
+  other: version {{.version}}
