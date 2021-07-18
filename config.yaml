@@ -1,26 +1,23 @@
-baseURL: https://rhvoice.org
 defaultContentLanguage: en
-title: RHVoice.org
-theme: terrassa
+theme: cupper
 
 params:
+  footer: © 2021 RHVoice, [GitHub](https://github.com/RHVoice), rhvoice@rhvoice.org
   urls:
     lp:
       mk: "https://louderpages.org/en/install"
       pt: "https://louderpages.org/en/install"
-  languageSwitcher:
-    show: true
-  contact:
-    email: rhvoice@rhvoice.org
-  social:
-    github: https://github.com/RHVoice
 
 languages:
   en:
+    baseURL: https://rhvoice.org
+    title: RHVoice.org
     languageName: en
     weight: 1
     contentDir: content/en
   ru:
+    baseURL: https://rhvoice.ru
+    title: RHVoice.ru
     languageName: ru
     weight: 2
     contentDir: content/ru

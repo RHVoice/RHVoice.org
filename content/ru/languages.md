@@ -1,6 +1,6 @@
 ---
 title: Языки
-menu: main
+menu: nav
 weight: 3
 ---
 

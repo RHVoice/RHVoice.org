@@ -1,6 +1,6 @@
 ---
 title: Установка
-menu: main
+menu: nav
 weight: 2
 ---
 
