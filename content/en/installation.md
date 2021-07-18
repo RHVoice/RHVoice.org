@@ -1,6 +1,6 @@
 ---
 title: Installation
-menu: main
+menu: nav
 weight: 2
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Home
-menu: main
+menu: nav
 weight: 1
 ---
 
