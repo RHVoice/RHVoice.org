@@ -8,7 +8,6 @@ params:
     lp:
       mk: "https://louderpages.org/en/install"
       pt: "https://louderpages.org/en/install"
-  logo: /logo.png
   languageSwitcher:
     show: true
   contact:
