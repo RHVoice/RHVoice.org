@@ -6,8 +6,8 @@ params:
   footer: © 2021 RHVoice, [GitHub](https://github.com/RHVoice), rhvoice@rhvoice.org
   urls:
     lp:
-      mk: "https://louderpages.org/en/install"
-      pt: "https://louderpages.org/en/install"
+      mk: "https://louderpages.org/kiko"
+      pt: "https://louderpages.org/leticia"
 
 languages:
   en:
