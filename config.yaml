@@ -2,6 +2,7 @@ defaultContentLanguage: en
 theme: cupper
 
 params:
+  logoAlt: RHVoice
   footer: © 2021 RHVoice, [GitHub](https://github.com/RHVoice), rhvoice@rhvoice.org
   urls:
     lp:
