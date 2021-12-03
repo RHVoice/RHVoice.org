@@ -28,6 +28,6 @@ weight: 2
 
 ## Android
 
-Установите приложение RHVoice из [{{%googlePlayLink "Google Play"%}}].
+Установите приложение RHVoice из {{%googlePlayLink "Google Play"%}}.
 
 Затем откройте приложение и загрузите голоса, которые хотите использовать.
