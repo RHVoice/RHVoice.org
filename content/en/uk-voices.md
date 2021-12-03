@@ -10,4 +10,4 @@ title: Ukrainian voices
 
 ## More voices
 
-{{%rhvLabLink%}} have created a Ukrainian voice for RHVoice.
+{{%rhvLabLink%}} have created more Ukrainian voices for RHVoice.
