@@ -1,7 +1,7 @@
 ---
 title: Languages
 menu: nav
-weight: 3
+weight: 30
 ---
 
 These languages are currently supported by RHVoice. For some of them
@@ -16,6 +16,7 @@ to the voice installation packages.
 * [Ukrainian]({{<relref "uk-voices">}})
 * [Brazilian Portuguese]({{<param "urls.lp.pt">}}), maintained by LouderPages
 * [Macedonian]({{<param "urls.lp.mk">}}) by LouderPages
+* [Albanian]({{<param "urls.lp.sq">}}) by LouderPages
 * [Kyrgyz]({{<relref "ky-voices">}})
 * [Tatar]({{<relref "ta-voices">}})
 * [Georgian]({{<relref "ka-voices">}})

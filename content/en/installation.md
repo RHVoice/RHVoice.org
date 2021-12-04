@@ -1,7 +1,7 @@
 ---
 title: Installation
 menu: nav
-weight: 2
+weight: 20
 ---
 
 ## Windows

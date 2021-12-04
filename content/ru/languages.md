@@ -1,7 +1,7 @@
 ---
 title: Языки
 menu: nav
-weight: 3
+weight: 30
 ---
 
 Это языки, которые в данный момент поддерживает RHVoice. Для некоторых
@@ -20,4 +20,5 @@ weight: 3
 * [Эсперанто]({{<relref "eo-voices">}})
 * [Бразильский португальский]({{<param "urls.lp.pt">}}), поддерживается LouderPages
 * [Македонский]({{<param "urls.lp.mk">}}) от LouderPages
+* [Албанский]({{<param "urls.lp.sq">}}) от LouderPages
 
