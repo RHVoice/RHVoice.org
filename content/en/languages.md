@@ -15,8 +15,9 @@ to the voice installation packages.
 * [Russian]({{<relref "ru-voices">}})
 * [Ukrainian]({{<relref "uk-voices">}})
 * [Brazilian Portuguese]({{<param "urls.lp.pt">}}), maintained by LouderPages
-* [Macedonian]({{<param "urls.lp.mk">}}) by LouderPages
+* [Macedonian]({{<relref "mk-voices">}})
 * [Albanian]({{<param "urls.lp.sq">}}) by LouderPages
+* [Polish]({{<param "urls.pl">}})
 * [Kyrgyz]({{<relref "ky-voices">}})
 * [Tatar]({{<relref "ta-voices">}})
 * [Georgian]({{<relref "ka-voices">}})

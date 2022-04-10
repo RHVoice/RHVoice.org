@@ -37,3 +37,5 @@ All the currently supported languages are listed [Here]({{<relref "languages">}}
 
 * {{%rhvLabLink%}}  \- Russian and other languages.
 
+* [Polish voices development team]({{<param "urls.pl">}}).
+

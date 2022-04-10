@@ -19,6 +19,7 @@ weight: 30
 * [Грузинский]({{<relref "ka-voices">}})
 * [Эсперанто]({{<relref "eo-voices">}})
 * [Бразильский португальский]({{<param "urls.lp.pt">}}), поддерживается LouderPages
-* [Македонский]({{<param "urls.lp.mk">}}) от LouderPages
+* [Македонский]({{<relref "mk-voices">}})
 * [Албанский]({{<param "urls.lp.sq">}}) от LouderPages
+* [Польский]({{<param "urls.pl">}})
 
