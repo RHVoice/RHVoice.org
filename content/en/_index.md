@@ -8,7 +8,7 @@ weight: 1
 
 RHVoice is a free and open-source multilingual speech synthesizer.
 
-It's developers hope to give more visually impared people the ability
+Its developers hope to give more visually impared people the ability
 to use a good free synthesis voice reading in their native language
 with their screen reader. We are especially interested in supporting
 those languages for which there are currently no good voices that
