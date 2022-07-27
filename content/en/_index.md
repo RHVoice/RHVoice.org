@@ -8,7 +8,7 @@ weight: 1
 
 RHVoice is a free and open-source multilingual speech synthesizer.
 
-Its developers hope to give more visually impared people the ability
+Its developers hope to give more visually impaired people the ability
 to use a good free synthesis voice reading in their native language
 with their screen reader. We are especially interested in supporting
 those languages for which there are currently no good voices that
@@ -24,7 +24,7 @@ non-programmers, are blind or partially sighted.
 * On Android with TalkBack and other text-to-speech apps.
 * On Linux with Orca.
 
-Cee the [installation instructions]({{<relref "installation">}}) for
+See the [installation instructions]({{<relref "installation">}}) for
 more details.
 
 ## Which languages are supported?
