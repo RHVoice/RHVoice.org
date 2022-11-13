@@ -1,15 +1,15 @@
 ---
 title: "RHVoice 1.10.0"
-date: 2022-10-24
+date: 2022-11-13
 ---
 
 RHVoice 1.10.0 is now available.
 
 ## What's new
 
-### Improved reading of emojis and dictionary updates for various languages
-
-This update improves reading of abbreviations in polish and macedonian and adds new emoji support for albanian, brazilian portuguese, english, georgian, kyrgyz, macedonian, polish, russian and ukrainian. This update also includes dictionary updates for ukrainian, macedonian and polish.
+* Improved reading of abbreviations in polish and macedonian.
+* New emoji support for albanian, brazilian portuguese, english, georgian, kyrgyz, macedonian, polish, russian and ukrainian.
+ * Other dictionary updates for ukrainian, macedonian and polish.
 
 ## Installation
 
