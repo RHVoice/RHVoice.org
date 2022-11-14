@@ -1,6 +1,6 @@
 ---
 title: "RHVoice 1.10.0"
-date: 2022-11-13
+date: 2022-11-14
 ---
 
 RHVoice 1.10.0 is now available.
