@@ -22,3 +22,4 @@ to the voice installation packages.
 * [Tatar]({{<relref "ta-voices">}})
 * [Georgian]({{<relref "ka-voices">}})
 * [Esperanto]({{<relref "eo-voices">}})
+* [Czech]({{<relref "cs-voices">}})

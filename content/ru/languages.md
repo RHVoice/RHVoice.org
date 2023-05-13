@@ -22,4 +22,5 @@ weight: 30
 * [Македонский]({{<relref "mk-voices">}})
 * [Албанский]({{<param "urls.lp.sq">}}) от LouderPages
 * [Польский]({{<param "urls.pl">}})
+* [Чешский]({{<relref "cs-voices">}})
 
