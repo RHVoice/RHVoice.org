@@ -3,5 +3,5 @@ title: Czech voices
 ---
 
 ## Zdenek
-{{%voiceDownloadLinks "Zdenek"%}}
+{{%voiceDownloadLinks "zdenek"%}}
 
