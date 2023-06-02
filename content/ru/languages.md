@@ -11,16 +11,16 @@ weight: 30
 Перейдите на страницу интересующего вас языка, чтобы найти
 установочные пакеты голосов.
 
-* [Русский]({{<relref "ru-voices">}})
-* [Английский]({{<relref "en-voices">}})
-* [Украинский]({{<relref "uk-voices">}})
-* [Киргизский]({{<relref "ky-voices">}})
-* [Татарский]({{<relref "ta-voices">}})
-* [Грузинский]({{<relref "ka-voices">}})
-* [Эсперанто]({{<relref "eo-voices">}})
-* [Бразильский португальский]({{<param "urls.lp.pt">}}), поддерживается LouderPages
-* [Македонский]({{<relref "mk-voices">}})
 * [Албанский]({{<param "urls.lp.sq">}}) от LouderPages
+* [Английский]({{<relref "en-voices">}})
+* [Грузинский]({{<relref "ka-voices">}})
+* [Киргизский]({{<relref "ky-voices">}})
+* [Македонский]({{<relref "mk-voices">}})
 * [Польский]({{<param "urls.pl">}})
+* [Португальский (Бразилия)]({{<param "urls.lp.pt">}}), поддерживается LouderPages
+* [Русский]({{<relref "ru-voices">}})
+* [Татарский]({{<relref "ta-voices">}})
+* [Украинский]({{<relref "uk-voices">}})
 * [Чешский]({{<relref "cs-voices">}})
+* [Эсперанто]({{<relref "eo-voices">}})
 
