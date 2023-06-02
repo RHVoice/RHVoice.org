@@ -11,15 +11,15 @@ multiple voices.
 Visit the page of the language you are interested in to find the links
 to the voice installation packages.
 
-* [English]({{<relref "en-voices">}})
-* [Russian]({{<relref "ru-voices">}})
-* [Ukrainian]({{<relref "uk-voices">}})
-* [Brazilian Portuguese]({{<param "urls.lp.pt">}}), maintained by LouderPages
-* [Macedonian]({{<relref "mk-voices">}})
 * [Albanian]({{<param "urls.lp.sq">}}) by LouderPages
-* [Polish]({{<param "urls.pl">}})
-* [Kyrgyz]({{<relref "ky-voices">}})
-* [Tatar]({{<relref "ta-voices">}})
-* [Georgian]({{<relref "ka-voices">}})
-* [Esperanto]({{<relref "eo-voices">}})
 * [Czech]({{<relref "cs-voices">}})
+* [English]({{<relref "en-voices">}})
+* [Esperanto]({{<relref "eo-voices">}})
+* [Georgian]({{<relref "ka-voices">}})
+* [Kyrgyz]({{<relref "ky-voices">}})
+* [Macedonian]({{<relref "mk-voices">}})
+* [Polish]({{<param "urls.pl">}})
+* [Portuguese (Brazil)]({{<param "urls.lp.pt">}}), maintained by LouderPages
+* [Russian]({{<relref "ru-voices">}})
+* [Tatar]({{<relref "ta-voices">}})
+* [Ukrainian]({{<relref "uk-voices">}})
