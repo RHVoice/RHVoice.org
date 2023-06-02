@@ -23,3 +23,4 @@ to the voice installation packages.
 * [Russian]({{<relref "ru-voices">}})
 * [Tatar]({{<relref "ta-voices">}})
 * [Ukrainian]({{<relref "uk-voices">}})
+* [Uzbek]({{<relref "uz-voices">}})
