@@ -4,7 +4,7 @@ theme: cupper
 params:
   logoAlt: RHVoice
   dateFormat: 2.01.2006
-  footer: © 2022 RHVoice, [GitHub](https://github.com/RHVoice), rhvoice@rhvoice.org
+  footer: © 2023 RHVoice, [GitHub](https://github.com/RHVoice), rhvoice@rhvoice.org
   urls:
     lp:
       mk: "https://louderpages.org/kiko"
