@@ -39,3 +39,4 @@ All the currently supported languages are listed [Here]({{<relref "languages">}}
 
 * [Polish voices development team]({{<param "urls.pl">}}).
 
+* [Slovak voices development team]({{<param "urls.sk">}}).
