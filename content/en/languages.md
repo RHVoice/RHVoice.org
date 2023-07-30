@@ -21,6 +21,7 @@ to the voice installation packages.
 * [Polish]({{<param "urls.pl">}})
 * [Portuguese (Brazil)]({{<param "urls.lp.pt">}}), maintained by LouderPages
 * [Russian]({{<relref "ru-voices">}})
+* [Slovak]({{<param "urls.sk">}})
 * [Tatar]({{<relref "ta-voices">}})
 * [Ukrainian]({{<relref "uk-voices">}})
 * [Uzbek]({{<relref "uz-voices">}})
