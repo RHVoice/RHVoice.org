@@ -10,4 +10,10 @@ title: Ukrainian voices
 
 ## More voices
 
+## Marianna, mirror
+{{%voiceDownloadLinks "marianna"%}}
+
+## Volodymyr, mirror
+{{%voiceDownloadLinks "volodymyr"%}}
+
 {{%rhvLabLink%}} have created more Ukrainian voices for RHVoice.

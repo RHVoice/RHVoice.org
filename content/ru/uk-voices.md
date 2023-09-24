@@ -10,4 +10,10 @@ title: Украинские голоса
 
 ## Больше голосов
 
+## маріанна, зеркало
+{{%voiceDownloadLinks "marianna"%}}
+
+## Володимир, зеркало
+{{%voiceDownloadLinks "volodymyr"%}}
+
 {{%rhvLabLink%}} создали несколько украинских голосов для RHVoice.
