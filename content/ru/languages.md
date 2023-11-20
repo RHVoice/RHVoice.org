@@ -21,6 +21,7 @@ weight: 30
 * [Русский]({{<relref "ru-voices">}})
 * [Словацкий]({{<param "urls.sk">}})
 * [Татарский]({{<relref "ta-voices">}})
+* [Туркменский]({{<param "urls.lp.tk">}}) от LouderPages
 * [Узбекский]({{<relref "uz-voices">}})
 * [Украинский]({{<relref "uk-voices">}})
 * [Чешский]({{<relref "cs-voices">}})

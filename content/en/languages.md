@@ -23,5 +23,6 @@ to the voice installation packages.
 * [Russian]({{<relref "ru-voices">}})
 * [Slovak]({{<param "urls.sk">}})
 * [Tatar]({{<relref "ta-voices">}})
+* [Turkmen]({{<param "urls.lp.tk">}}) by LouderPages
 * [Ukrainian]({{<relref "uk-voices">}})
 * [Uzbek]({{<relref "uz-voices">}})
