@@ -6,9 +6,11 @@ title: Узбекские голоса
 {{%voiceDownloadLinks "sevinch"%}}
 
 ## Islom
-Разработано командой: [RHVoice slavic](mailto:rhvoiceslavic@gmail.com)
+Разработал: Звонимир Станечич
 {{%voiceDownloadLinks "islom"%}}
+[Связаться с разработчиком](mailto:rhvoiceslavic@gmail.com)
 
 ## Dil'navoz
-Разработано командой: [RHVoice slavic](mailto:rhvoiceslavic@gmail.com)
+Разработал: Звонимир Станечич
 {{%voiceDownloadLinks "dilnavoz"%}}
+[Связаться с разработчиком](mailto:rhvoiceslavic@gmail.com)

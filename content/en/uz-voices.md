@@ -6,9 +6,11 @@ title: Uzbek voices
 {{%voiceDownloadLinks "sevinch"%}}
 
 ## Islom
-Developed by: [RHVoice slavic team](mailto:rhvoiceslavic@gmail.com)
+Developed by: Zvonimir Stanecic
 {{%voiceDownloadLinks "islom"%}}
+[Contact the developer](mailto:rhvoiceslavic@gmail.com)
 
 ## Dil'navoz
-Developed by: [RHVoice slavic team](mailto:rhvoiceslavic@gmail.com)
+Developed by: Zvonimir Stanecic
 {{%voiceDownloadLinks "dilnavoz"%}}
+[Contact the developer](mailto:rhvoiceslavic@gmail.com)
