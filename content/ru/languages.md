@@ -19,6 +19,7 @@ weight: 30
 * [Польский]({{<param "urls.pl">}})
 * [Португальский (Бразилия)]({{<param "urls.lp.pt">}}), поддерживается LouderPages
 * [Русский]({{<relref "ru-voices">}})
+* [Сербский]({{<relref "sr-voices">}})
 * [Словацкий]({{<param "urls.sk">}})
 * [Татарский]({{<relref "ta-voices">}})
 * [Туркменский]({{<param "urls.lp.tk">}}) от LouderPages

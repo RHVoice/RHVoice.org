@@ -17,3 +17,10 @@ title: English voices
 
 ### Alan
 {{%voiceDownloadLinks "alan"%}}
+
+## Indian English
+
+### Ksp
+developed by: Dorota Krać and Zvonimir Stanecic
+{{%voiceDownloadLinks "ksp"%}}
+[Contact the developer](mailto:rhvoiceslavic@gmail.com)
