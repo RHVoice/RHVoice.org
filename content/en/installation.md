@@ -30,3 +30,7 @@ Install the RHVoice app from {{%googlePlayLink "Google Play"%}} or
 using this {{%androidAppLink "direct link"%}}.
 
 Then open the app and download the voices you want to use.
+
+## Linux
+
+See [this page]({{<relref "linux">}}) for installation instructions for Linux.
