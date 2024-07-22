@@ -12,6 +12,7 @@ Visit the page of the language you are interested in to find the links
 to the voice installation packages.
 
 * [Albanian]({{<param "urls.lp.sq">}}) by LouderPages
+* [Croatian]({{<relref "hr-voices">}})
 * [Czech]({{<relref "cs-voices">}})
 * [English]({{<relref "en-voices">}})
 * [Esperanto]({{<relref "eo-voices">}})
