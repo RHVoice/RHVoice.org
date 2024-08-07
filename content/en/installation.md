@@ -26,8 +26,7 @@ software is needed: everything is included in the voice installer.
 
 ## Android
 
-Install the RHVoice app from {{%googlePlayLink "Google Play"%}} or
-using this {{%androidAppLink "direct link"%}}.
+Install the RHVoice app from {{%googlePlayLink "Google Play"%}}.
 
 Then open the app and download the voices you want to use.
 
