@@ -19,12 +19,15 @@ to the voice installation packages.
 * [Georgian]({{<relref "ka-voices">}})
 * [Kyrgyz]({{<relref "ky-voices">}})
 * [Macedonian]({{<relref "mk-voices">}})
+* [Nepali]({{<param "urls.lp.ne">}}) by LouderPages
 * [Polish]({{<param "urls.pl">}})
 * [Portuguese (Brazil)]({{<param "urls.lp.pt">}}), maintained by LouderPages
 * [Russian]({{<relref "ru-voices">}})
 * [Serbian]({{<relref "sr-voices">}})
+* [Setswana]({{<param "urls.lp.tn">}}) by LouderPages
 * [Slovak]({{<param "urls.sk">}})
 * [Tatar]({{<relref "ta-voices">}})
 * [Turkmen]({{<param "urls.lp.tk">}}) by LouderPages
 * [Ukrainian]({{<relref "uk-voices">}})
 * [Uzbek]({{<relref "uz-voices">}})
+* [Southern Vietnamese]({{<param "urls.lp.vi">}}) by LouderPages
