@@ -26,6 +26,7 @@ to the voice installation packages.
 * [Serbian]({{<relref "sr-voices">}})
 * [Setswana]({{<param "urls.lp.tn">}}) by LouderPages
 * [Slovak]({{<param "urls.sk">}})
+* [Spanish]({{<relref "es-voices">}})
 * [Tatar]({{<relref "ta-voices">}})
 * [Turkmen]({{<param "urls.lp.tk">}}) by LouderPages
 * [Ukrainian]({{<relref "uk-voices">}})
