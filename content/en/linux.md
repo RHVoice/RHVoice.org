@@ -10,6 +10,8 @@ There are three possible options of installing RHVoice on Linux:
 
 Distribution through the Snap packaging system is preferred by the developers of the core RHVoice engine, as it allows us to easily publish a single up-to-date binary. If you are not familiar with snaps, please visit [this website](https://snapcraft.io/) to learn about them. Your preferred Linux distribution may already have this system preinstalled, or it may be available as a package in its repository.
 
+## Install RHVoice snap
+
 The snap only installs the RHVoice TTS engine itself, including the module connecting RHVoice to Speech Dispatcher. Voices need to be installed via the newly implemented built-in command-line voice manager.
 
 Most of the commands described below need to be run as root. We will assume you use the sudo command.
@@ -40,6 +42,8 @@ Now let's test if it speaks:
 ```
 echo hello|rhvoice.test
 ```
+
+### Use RHVoice with Orca
 
 If you use the Orca screen reader, you will need to manually connect RHVoice to Speech Dispatcher, which is the software Orca relies on to work with TTS engines. Unfortunately, we are not aware of any way we could register RHVoice with Speech Dispatcher automatically.
 
