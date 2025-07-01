@@ -45,7 +45,7 @@ If you use the Orca screen reader, you will need to manually connect RHVoice to 
 
 The method described below has been tested on Ubuntu. If it doesn't work on your Linux distribution, please let us know.
 
-1. Open the terminal and change to the directory that contains Speech Dispatcher modules
+1. Open the terminal and change to the directory that contains Speech Dispatcher modules:
 ```
 cd /usr/lib/speech-dispatcher-modules
 ```
