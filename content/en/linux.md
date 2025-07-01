@@ -43,13 +43,14 @@ Now let's test if it speaks:
 echo hello|rhvoice.test
 ```
 
-### Use RHVoice with Orca
+## Use RHVoice with Orca
 
 If you use the Orca screen reader, you will need to manually connect RHVoice to Speech Dispatcher, which is the software Orca relies on to work with TTS engines. Unfortunately, we are not aware of any way we could register RHVoice with Speech Dispatcher automatically.
 
-The method described below has been tested on Ubuntu. If it doesn't work on your Linux distribution, please let us know.
+Orca is the default screen reader in Linux distributions such as Ubuntu, Fedora and Debian. The method described below has been tested on Ubuntu. If it doesn't work on your Linux distribution, please let us know.
 
-1. Open the terminal and change to the directory that contains Speech Dispatcher modules:
+1. Install the RHVoice snap and at least one voice as explained in the previous section.
+2. Open the terminal and change to the directory that contains the Speech Dispatcher modules:
 ```
 cd /usr/lib/speech-dispatcher-modules
 ```
