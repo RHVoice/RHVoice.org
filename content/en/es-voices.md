@@ -8,5 +8,6 @@ Voices listed in this variant have a neutral Latin American accent. We will foll
 
 ### Mateo
 
-Developed by: [Mateo Cedillo](mailto:angelitomateocedillo@gmail.com) and [Zvonimir Stanecic](mailto:rhvoiceslavic@gmail.com)
+Developed by the RHVoice lab team
 {{%voiceDownloadLinks "mateo"%}}
+[Contact ](mailto:rhvoice.spa@gmail.com)
