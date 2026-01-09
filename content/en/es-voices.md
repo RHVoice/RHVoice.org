@@ -10,4 +10,4 @@ Voices listed in this variant have a neutral Latin American accent. We will foll
 
 Developed by the RHVoice lab team
 {{%voiceDownloadLinks "mateo"%}}
-[Contact ](mailto:rhvoice.spa@gmail.com)
+[Contact the developers](mailto:rhvoice.spa@gmail.com)
