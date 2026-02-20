@@ -13,6 +13,7 @@ To use RHVoice with NVDA, first install the main RHVoice addon.
 {{%nvdaAddonLink "Download the addon"%}}.
 
 This version supports nvda versions from 2021.1 to 2026.1.
+
 Then follow one of the language links on [this page]({{<relref
 "languages">}}) and download and install a voice addon.
 
