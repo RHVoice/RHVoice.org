@@ -22,6 +22,7 @@ to the voice installation packages.
 * [Nepali]({{<param "urls.lp.ne">}}) by LouderPages
 * [Polish]({{<param "urls.pl">}})
 * [Portuguese (Brazil)]({{<param "urls.lp.pt">}}), maintained by LouderPages
+* [Romanian]({{<relref "ro-voices">}})
 * [Russian]({{<relref "ru-voices">}})
 * [Serbian]({{<relref "sr-voices">}})
 * [Setswana]({{<param "urls.lp.tn">}}) by LouderPages
