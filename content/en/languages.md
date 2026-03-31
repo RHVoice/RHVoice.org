@@ -18,6 +18,7 @@ to the voice installation packages.
 * [Esperanto]({{<relref "eo-voices">}})
 * [Georgian]({{<relref "ka-voices">}})
 * [Kyrgyz]({{<relref "ky-voices">}})
+* [Luxembourgish]({{<relref "lb-voices">}})
 * [Macedonian]({{<relref "mk-voices">}})
 * [Nepali]({{<param "urls.lp.ne">}}) by LouderPages
 * [Polish]({{<param "urls.pl">}})
