@@ -1,5 +1,5 @@
 ---
-title: Giọng đọc tiếng Anh
+title: Các giọng nói tiếng Anh
 ---
 
 ## Tiếng Anh Mỹ
@@ -23,4 +23,4 @@ title: Giọng đọc tiếng Anh
 ### Ksp
 phát triển bởi: Dorota Krać và Zvonimir Stanecic
 {{%voiceDownloadLinks "ksp"%}}
-[Liên hệ nhà phát triển](mailto:rhvoiceslavic@gmail.com)
+[Liên hệ với nhà phát triển](mailto:rhvoiceslavic@gmail.com)

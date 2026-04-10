@@ -2,31 +2,31 @@
 title: "Sử dụng RHVoice trên Linux"
 ---
 
-Có ba tùy chọn khả thi để cài đặt RHVoice trên Linux:
+Có ba cách để cài đặt RHVoice trên Linux:
 
-* 1. Một gói cập nhật được phân phối qua Snap Store. Dưới đây chúng tôi mô tả cách cài đặt nó.
-* 2. Một trong các gói được xây dựng cho các bản phân phối Linux cụ thể. Không phải tất cả chúng đều được cập nhật và cung cấp tất cả các giọng nói. Xem [trang này](https://github.com/RHVoice/RHVoice/blob/master/doc/en/Packaging-status.md) để biết thêm thông tin.
-* 3. Biên dịch từ mã nguồn: truy cập [kho mã nguồn RHVoice](https://github.com/RHVoice/RHVoice) để tìm hiểu thêm.
+1. Sử dụng gói cài đặt mới nhất được phân phối qua Snap Store. Dưới đây là hướng dẫn chi tiết cách cài đặt.
+2. Sử dụng các gói được xây dựng riêng cho từng bản phân phối Linux cụ thể. Tuy nhiên, không phải tất cả các gói này đều được cập nhật thường xuyên và cung cấp đầy đủ các giọng nói. Xem [trang này](https://github.com/RHVoice/RHVoice/blob/master/doc/en/Packaging-status.md) để biết thêm thông tin.
+3. Biên dịch từ mã nguồn: Truy cập [kho lưu trữ mã nguồn RHVoice](https://github.com/RHVoice/RHVoice) để tìm hiểu thêm.
 
-Việc phân phối thông qua hệ thống đóng gói Snap được các nhà phát triển công cụ RHVoice cốt lõi ưa thích, vì nó cho phép chúng tôi dễ dàng xuất bản một tệp nhị phân cập nhật duy nhất. Nếu bạn không quen thuộc với snap, vui lòng truy cập [trang web này](https://snapcraft.io/) để tìm hiểu về chúng. Bản phân phối Linux ưa thích của bạn có thể đã được cài đặt sẵn hệ thống này hoặc nó có thể có sẵn dưới dạng một gói trong kho của nó.
+Việc phân phối qua hệ thống đóng gói Snap được các nhà phát triển công cụ RHVoice cốt lõi khuyến khích sử dụng, vì nó cho phép chúng tôi dễ dàng phát hành một tệp nhị phân duy nhất luôn được cập nhật. Nếu bạn chưa quen với Snap, vui lòng truy cập [trang web này](https://snapcraft.io/) để tìm hiểu thêm. Bản phân phối Linux bạn đang dùng có thể đã được cài đặt sẵn hệ thống này, hoặc bạn có thể cài đặt nó dưới dạng một gói từ kho lưu trữ của hệ thống.
 
-The snap chỉ cài đặt chính công cụ TTS RHVoice, bao gồm cả mô-đun kết nối RHVoice với Speech Dispatcher. Giọng nói cần được cài đặt thông qua trình quản lý giọng nói dòng lệnh tích hợp mới được triển khai.
+Snap chỉ cài đặt bộ công cụ RHVoice TTS, bao gồm cả mô-đun kết nối RHVoice với Speech Dispatcher. Các giọng nói cần được cài đặt thông qua trình quản lý giọng nói bằng dòng lệnh mới được triển khai.
 
-Hầu hết các lệnh được mô tả dưới đây cần được chạy với quyền root. Chúng tôi sẽ giả định bạn sử dụng lệnh sudo.
+Hầu hết các lệnh mô tả dưới đây cần được thực hiện với quyền root. Chúng tôi giả định rằng bạn đang sử dụng lệnh sudo.
 
-Để cài đặt snap, hãy chạy lệnh này:
+Để cài đặt snap, hãy chạy lệnh sau:
 ```
 sudo snap install rhvoice
 ```
 
-Bây giờ bạn cần cài đặt một giọng nói. Trình quản lý giọng nói phải được chạy với quyền root. Về lý thuyết, một số lệnh của nó không yêu cầu nó, nhưng chúng tôi chưa triển khai chức năng như vậy.
+Tiếp theo, bạn cần cài đặt một giọng nói. Trình quản lý giọng nói phải được chạy với quyền root. Về lý thuyết, một số lệnh của nó không yêu cầu quyền này, nhưng chúng tôi chưa triển khai chức năng đó.
 
 Để liệt kê các giọng nói có sẵn, hãy chạy:
 ```
 sudo rhvoice.vm -a
 ```
 
-Giả sử chúng ta muốn cài đặt giọng nói tiếng Anh có tên Alan:
+Giả sử chúng ta muốn cài đặt giọng nói tiếng Anh có tên là Alan:
 ```
 sudo rhvoice.vm -i alan
 ```
@@ -36,18 +36,19 @@ sudo rhvoice.vm -i alan
 sudo rhvoice.vm -l
 ```
 
-Bây giờ hãy kiểm tra xem nó có nói không:
+Bây giờ, hãy kiểm tra xem nó có hoạt động không:
 ```
 echo hello|rhvoice.test
 ```
 
-Nếu bạn sử dụng trình đọc màn hình Orca, bạn sẽ cần kết nối thủ công RHVoice với Speech Dispatcher, đây là phần mềm mà Orca dựa vào để hoạt động với các công cụ TTS. Thật không may, chúng tôi không biết bất kỳ cách nào chúng tôi có thể đăng ký RHVoice với Speech Dispatcher một cách tự động.
+Nếu bạn sử dụng trình đọc màn hình Orca, bạn sẽ cần kết nối RHVoice với Speech Dispatcher theo cách thủ công. Đây là phần mềm mà Orca sử dụng để làm việc với các bộ công cụ TTS. Thật không may, hiện chưa có cách nào để tự động đăng ký RHVoice với Speech Dispatcher.
 
-Phương pháp được mô tả dưới đây đã được thử nghiệm trên Ubuntu. Nếu nó không hoạt động trên bản phân phối Linux của bạn, vui lòng cho chúng tôi biết.
+Phương pháp mô tả dưới đây đã được thử nghiệm trên Ubuntu. Nếu nó không hoạt động trên bản phân phối Linux của bạn, vui lòng cho chúng tôi biết.
 
-1. Mở terminal và thay đổi thư mục thành `/usr/lib/speech-dispatcher-modules`.
-2. Tạo một liên kết tượng trưng đến mô-un của RHVoice cho Speech Dispatcher:
+1. Mở terminal và chuyển đến thư mục `/usr/lib/speech-dispatcher-modules`.
+2. Tạo một liên kết tượng trưng (symbolic link) đến mô-đun của RHVoice cho Speech Dispatcher:
 ```
 sudo ln -s /snap/rhvoice/current/bin/sd_rhvoice
 ```
-3. Khởi động lại. Bây giờ bạn sẽ có thể chọn RHVoice và giọng nói yêu thích của mình trong Orca.
+3. Khởi động lại máy. Bây giờ bạn đã có thể chọn RHVoice và giọng nói yêu thích của mình trong Orca.
+

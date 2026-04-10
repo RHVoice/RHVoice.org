@@ -1,5 +1,5 @@
 ---
-title: Giọng đọc tiếng Gruzia
+title: Các giọng nói tiếng Gruzia
 ---
 
 ## Natia

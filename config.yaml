@@ -5,7 +5,6 @@ params:
   logoAlt: RHVoice
   dateFormat: 2.01.2006
   footer: © 2023 RHVoice, [GitHub](https://github.com/RHVoice), rhvoice@rhvoice.org
-  description: "A free and open-source multilingual speech synthesizer."
   urls:
     lp:
       mk: "https://louderpages.org/kiko"
@@ -31,13 +30,3 @@ languages:
     languageName: ru
     weight: 2
     contentDir: content/ru
-  vi:
-    baseURL: https://rhvoice.org/vi
-    title: RHVoice.org
-    languageName: vi
-    weight: 3
-    contentDir: content/vi
-    params:
-      logoAlt: "Biểu trưng RHVoice"
-      footer: "© 2023 RHVoice, [GitHub](https://github.com/RHVoice), rhvoice@rhvoice.org"
-      description: "Một bộ tổng hợp giọng nói đa ngôn ngữ miễn phí và mã nguồn mở."

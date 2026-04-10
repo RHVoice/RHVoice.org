@@ -1,5 +1,5 @@
 ---
-title: Giọng đọc tiếng Séc
+title: Các giọng nói tiếng Séc
 ---
 
 ## Radek

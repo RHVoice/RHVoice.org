@@ -1,5 +1,5 @@
 ---
-title: Giọng đọc tiếng Kyrgyz
+title: Các giọng nói tiếng Kyrgyz
 ---
 
 ## Azamat

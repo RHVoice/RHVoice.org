@@ -1,5 +1,5 @@
 ---
-title: Giọng đọc tiếng Ukraina
+title: Các giọng nói tiếng Ukraine
 ---
 
 ## Anatol
@@ -8,12 +8,12 @@ title: Giọng đọc tiếng Ukraina
 ## Natalia
 {{%voiceDownloadLinks "natalia"%}}
 
-## Nhiều giọng nói hơn
+## Thêm nhiều giọng nói khác
 
-## Marianna, mirror
+## Marianna, bản sao
 {{%voiceDownloadLinks "marianna"%}}
 
-## Volodymyr, mirror
+## Volodymyr, bản sao
 {{%voiceDownloadLinks "volodymyr"%}}
 
-{{%rhvLabLink%}} đã tạo ra nhiều giọng nói tiếng Ukraina hơn cho RHVoice.
+{{%rhvLabLink%}} đã tạo thêm nhiều giọng nói tiếng Ukraine cho RHVoice.

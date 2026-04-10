@@ -1,5 +1,5 @@
 ---
-title: Giọng đọc tiếng Tatar
+title: Các giọng nói tiếng Tatar
 ---
 
 ## Talgat

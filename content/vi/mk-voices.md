@@ -1,5 +1,5 @@
 ---
-title: Giọng đọc tiếng Macedonia
+title: Các giọng nói tiếng Macedonia
 ---
 
 ## Kiko

@@ -1,5 +1,5 @@
 ---
-title: Giọng đọc tiếng Esperanto
+title: Các giọng nói tiếng Esperanto
 ---
 
 ## Spomenka

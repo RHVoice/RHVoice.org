@@ -1,5 +1,5 @@
 ---
-title: Giọng đọc tiếng Uzbek
+title: Các giọng nói tiếng Uzbek
 ---
 
 ## Sevinch
@@ -8,9 +8,9 @@ title: Giọng đọc tiếng Uzbek
 ## Islom
 Phát triển bởi: Zvonimir Stanecic
 {{%voiceDownloadLinks "islom"%}}
-[Liên hệ nhà phát triển](mailto:rhvoiceslavic@gmail.com)
+[Liên hệ với nhà phát triển](mailto:rhvoiceslavic@gmail.com)
 
 ## Dil'navoz
 Phát triển bởi: Zvonimir Stanecic
 {{%voiceDownloadLinks "dilnavoz"%}}
-[Liên hệ nhà phát triển](mailto:rhvoiceslavic@gmail.com)
+[Liên hệ với nhà phát triển](mailto:rhvoiceslavic@gmail.com)

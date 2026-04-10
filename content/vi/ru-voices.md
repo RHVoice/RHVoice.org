@@ -1,5 +1,5 @@
 ---
-title: Giọng đọc tiếng Nga
+title: Các giọng nói tiếng Nga
 ---
 
 ## Aleksandr
@@ -14,6 +14,6 @@ title: Giọng đọc tiếng Nga
 ## Irina
 {{%voiceDownloadLinks "irina"%}}
 
-## Nhiều giọng nói hơn
+## Thêm nhiều giọng nói khác
 
-{{%rhvLabLink%}} đã tạo ra nhiều giọng nói tiếng Nga hơn cho RHVoice.
+{{%rhvLabLink%}} đã tạo thêm nhiều giọng nói tiếng Nga cho RHVoice.
