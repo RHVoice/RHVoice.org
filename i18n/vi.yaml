@@ -1,0 +1,6 @@
+nvdaVoiceLink:
+  other: Tải xuống giọng nói cho NVDA
+sapiVoiceLink:
+  other: Tải xuống giọng nói cho các chương trình Windows khác
+versionX:
+  other: phiên bản {{.version}}
